@@ -47,7 +47,7 @@ export default {
   buildModules: [],
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: ["@femessage/nuxt-micro-frontend"],
+  modules: [],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {}

@@ -76,7 +76,7 @@
             <div class="flex space-x-4">
               <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
               <nuxt-link
-                to="/women"
+                to="/app-react"
                 class="text-white px-3 py-2 rounded-md text-sm font-medium"
                 aria-current="page"
                 :class="{ 'bg-gray-900': activeTab == 'women' }"
